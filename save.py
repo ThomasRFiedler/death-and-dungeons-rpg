@@ -1,0 +1,14 @@
+xp = 33
+max_hp = 15
+hp = 9
+attack = [1, 2]
+strength = 0
+dexterity = 0
+gold = 100
+name = "Billybob"
+level = 2
+inventory = {1: 'Mythril Broad Sword', 2: 'Weak Health Potion', 3: 'Bronze Helmet', 4: '', 5: '', 6: '', 7: '', 8: '', 9: '', 10: '', 11: '', 12: ''}
+equipped = {'helmet': '', 'breastplate': '', 'leggings': '', 'boots': '', 'gauntlets': '', 'weapon': ''}
+discovered_areas = []
+current_region = "Ancora"
+location = "The Wilderness"
